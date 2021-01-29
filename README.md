@@ -8,7 +8,7 @@ I am mostly working with _JavaScript frameworks_ but I'm dipping my toes into _p
 
 ## **_Currently working on._**
 
-[Wethea](https://github.com/erimaga/we-thea) - A weather web application built with 💜, 🥑 and [Vue.js](https://vuejs.org)
+[hottea](https://github.com/exuseric/hottea) - A weather web application built with 💜, 🥑 and [Vue.js](https://vuejs.org)
 
 <br />
 
