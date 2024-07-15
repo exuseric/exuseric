@@ -21,5 +21,5 @@ I am mostly working with _JavaScript frameworks_ but I'm dipping my toes into _p
 
 ## **_Find me._**
 
-- [Twitter](https://twitter.com/exuseric)
-- [Portfolio](https://itseric.netlify.app)
+- [Twitter](https://twitter.com/caramel_uncrn/)
+- [Portfolio](https://ericmaina.me/)
