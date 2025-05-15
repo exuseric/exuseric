@@ -1,25 +1,45 @@
-# 👋🏾 **HI, I am Eric Maina**
+# 👋🏾 Hi, I'm Eric Maina
 
-I am a front-end developer based in Kenya`(254)` specializing in _`minimal`_ and _`accessible`_ website design and creating technology to elevate people.
+I'm a frontend-heavy fullstack developer based in Kenya `(254)` focused on building fast, accessible, and beautiful websites. Basically, I make things work and look good doing it.
 
-I am mostly working with _JavaScript frameworks_ but I'm dipping my toes into _python_ 🐍 on the D.L _`shshshshsh!`_
+I care a lot about performance, clean design, and not wasting users’ time—or mine. My stack leans into **JavaScript frameworks** like Next.js, with a growing relationship (situationship?) with **Python** 🐍. We don’t label it.
 
-<br />
+---
 
-## **_Currently working on._**
+## 🛠 Latest Project: Toast or Ghost
 
-[hottea](https://github.com/exuseric/hottea) - A weather web application built with 💜, 🥑 and [Vue.js](https://vuejs.org)
+[**Toast or Ghost**](https://github.com/exuseric/toast-or-ghost) — A slick RSVP management app built with **Next.js**, **Supabase**, and **Postgres (via Xata)**.
 
-<br />
+It’s for event organizers who want clean UX and less ghosting. Create events, send branded invites, and track RSVPs in real time. Attendees can RSVP in two clicks and update responses later—because people change their minds more than their socks.
 
-## **_Interests_**
+---
 
-- I'm learning more about `UI&UX`.
-- I'm sort of considering `Angular`.
+## 🧪 Other Notable Builds
 
-<br />
+**[BookMeMaybe](https://github.com/exuseric/bookmemaybe)** — A booking platform for solo service providers (tutors, dog walkers, life coaches... yeah, even them). Build a custom booking page, manage availability, and accept payments. Crying optional.
 
-## **_Find me._**
+- **Built with:** Next.js · Clerk · Postgres
 
-- [Twitter](https://twitter.com/caramel_uncrn/)
-- [Portfolio](https://ericmaina.me/)
+---
+
+## 🧠 What I'm Into Right Now
+
+- Smoothing out UI & UX for actual human beings
+- Playing around with Astro, Pocketbase, and other shiny tools
+- Maybe getting serious with Angular, maybe not. Stop asking.
+
+---
+
+## 🧰 I’ve Worked With
+
+- Shopify (storefront builds)
+- Astro (for lightning-fast landers)
+- Supabase, Pocketbase, and a pinch of Postgres in everything
+- Solo, in teams, and for agencies that send too many Slack messages
+
+---
+
+## 📍 Find Me Elsewhere
+
+- 🐦 [Twitter (aka X, like the variable nobody asked to solve)](https://twitter.com/caramel_uncrn/) — where I pretend I’m not working
+- 🌐 [Portfolio](https://ericmaina.me/) — actual proof I know what I’m doing
