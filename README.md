@@ -1,45 +1,56 @@
-# 👋🏾 Hi, I'm Eric Maina
+# 👋 Hi, I'm Eric
 
-I'm a frontend-heavy fullstack developer based in Kenya `(254)` focused on building fast, accessible, and beautiful websites. Basically, I make things work and look good doing it.
-
-I care a lot about performance, clean design, and not wasting users’ time—or mine. My stack leans into **JavaScript frameworks** like Next.js, with a growing relationship (situationship?) with **Python** 🐍. We don’t label it.
+I’m a **Full-Stack Developer** based in Nairobi. I build web systems with a bias toward **performance, clarity, and "boring-but-correct" solutions.** I’m drawn to tools that reward curiosity and systems that punish sloppy thinking.
 
 ---
 
-## 🛠 Latest Project: Toast or Ghost
+## 🧠 Philosophy & Approach
 
-[**Toast or Ghost**](https://github.com/exuseric/toast-or-ghost) — A slick RSVP management app built with **Next.js**, **Supabase**, and **Postgres (via Xata)**.
-
-It’s for event organizers who want clean UX and less ghosting. Create events, send branded invites, and track RSVPs in real time. Attendees can RSVP in two clicks and update responses later—because people change their minds more than their socks.
-
----
-
-## 🧪 Other Notable Builds
-
-**[BookMeMaybe](https://github.com/exuseric/bookmemaybe)** — A booking platform for solo service providers (tutors, dog walkers, life coaches... yeah, even them). Build a custom booking page, manage availability, and accept payments. Crying optional.
-
-- **Built with:** Next.js · Clerk · Postgres
+* **Clarity over Cleverness:** Code should be readable today and maintainable in six months.
+* **Performance as a Constraint:** Fast load times and low latency are design requirements, not afterthoughts.
+* **Earned Abstractions:** I prefer predictable data flow over "magic" frameworks that hide complexity.
+* **Iterative Learning:** I believe confusion is a signal for where a system needs better modeling.
 
 ---
 
-## 🧠 What I'm Into Right Now
+## 🛠 Tech Stack
 
-- Smoothing out UI & UX for actual human beings
-- Playing around with Astro, Pocketbase, and other shiny tools
-- Maybe getting serious with Angular, maybe not. Stop asking.
+I care less about labels and more about *why* a tool exists and where it fails under pressure.
 
----
-
-## 🧰 I’ve Worked With
-
-- Shopify (storefront builds)
-- Astro (for lightning-fast landers)
-- Supabase, Pocketbase, and a pinch of Postgres in everything
-- Solo, in teams, and for agencies that send too many Slack messages
+| Category | Tools of Choice |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript (ES6+), HTML5, CSS3/Tailwind |
+| **Frontend** | React, Next.js, Astro |
+| **Backend & Infra** | Node.js, Cloudflare Workers (Edge), RESTful APIs |
+| **Data & Storage** | PostgreSQL, Supabase |
+| **CMS & E-commerce** | Payload CMS, Shopify (Liquid/Storefront API), WordPress |
+| **Testing/Ops** | Vitest, Cypress, Docker, GitHub Actions |
 
 ---
 
-## 📍 Find Me Elsewhere
+## 📌 Selected Work
 
-- 🐦 [Twitter (aka X, like the variable nobody asked to solve)](https://twitter.com/caramel_uncrn/) — where I pretend I’m not working
-- 🌐 [Portfolio](https://ericmaina.me/) — actual proof I know what I’m doing
+* **High-Performance Marketing Platforms** – Architecting Astro + Headless CMS setups optimized for Core Web Vitals and SEO.
+* **Serverless Edge Middleware** – Using Cloudflare Workers for real-time inventory synchronization and API decoupling.
+* **E-commerce Ecosystems** – Developing custom Shopify workflows, analytics pipelines, and CRM automation.
+* **Resilient Design Systems** – Building "boring" reusable components that prioritize accessibility and stability.
+
+---
+
+## 📚 Currently Exploring
+
+* Advanced frontend architecture patterns and their long-term trade-offs.
+* Distributed systems fundamentals and edge computing.
+* Enhanced observability and data-flow reasoning.
+
+---
+
+## 🔗 Connect With Me
+
+* **Portfolio:** [ericmaina.me](https://ericmaina.me)
+* **LinkedIn:** [linkedin.com/in/exuseric](https://linkedin.com/in/exuseric)
+* **Behance:** [behance.net/exuseric](https://behance.net/exuseric)
+
+---
+
+> "Simple systems fail more gracefully."
