@@ -4,7 +4,7 @@ I’m a **Full-Stack Developer** based in Nairobi. I build web systems with a bi
 
 ---
 
-## 🧠 Philosophy & Approach
+## Philosophy & Approach
 
 * **Clarity over Cleverness:** Code should be readable today and maintainable in six months.
 * **Performance as a Constraint:** Fast load times and low latency are design requirements, not afterthoughts.
@@ -13,7 +13,7 @@ I’m a **Full-Stack Developer** based in Nairobi. I build web systems with a bi
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 I care less about labels and more about *why* a tool exists and where it fails under pressure.
 
@@ -28,7 +28,7 @@ I care less about labels and more about *why* a tool exists and where it fails u
 
 ---
 
-## 📌 Selected Work
+## Selected Work
 
 * **High-Performance Marketing Platforms** – Architecting Astro + Headless CMS setups optimized for Core Web Vitals and SEO.
 * **Serverless Edge Middleware** – Using Cloudflare Workers for real-time inventory synchronization and API decoupling.
@@ -37,15 +37,16 @@ I care less about labels and more about *why* a tool exists and where it fails u
 
 ---
 
-## 📚 Currently Exploring
+## Currently Exploring
 
+* Mobile development with Kotlin, Jetpack Compose and Compose Multiplatform
 * Advanced frontend architecture patterns and their long-term trade-offs.
 * Distributed systems fundamentals and edge computing.
 * Enhanced observability and data-flow reasoning.
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 * **Portfolio:** [ericmaina.me](https://ericmaina.me)
 * **LinkedIn:** [linkedin.com/in/exuseric](https://linkedin.com/in/exuseric)
