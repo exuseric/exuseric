@@ -4,6 +4,10 @@ I’m a **Full-Stack Developer** based in Nairobi. I build web systems with a bi
 
 ---
 
+![Languages](https://github.com/exuseric/exuseric/blob/main/github-metrics.svg)
+
+---
+
 ## Philosophy & Approach
 
 * **Clarity over Cleverness:** Code should be readable today and maintainable in six months.
